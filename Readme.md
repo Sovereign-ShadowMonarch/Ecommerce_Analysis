@@ -1,4 +1,4 @@
-# E-commerce Data Analysis and Customer Intelligence Project
+# E-commerce Data Analysis Project
 
 This repository contains a comprehensive data analysis project focused on e-commerce transaction data, encompassing customer behavior analysis, 
 lookalike modeling, and customer segmentation. The project leverages advanced analytics and machine learning techniques to derive actionable business insights.
